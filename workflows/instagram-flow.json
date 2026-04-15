@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "name": "IG Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "parameters": {
+        "path": "instagram"
+      },
+      "position": [200, 300]
+    }
+  ]
+}
