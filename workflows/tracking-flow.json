@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    {
+      "name": "Lookup Order",
+      "type": "n8n-nodes-base.googleSheets",
+      "parameters": {
+        "operation": "lookup",
+        "lookupColumn": "Phone"
+      },
+      "position": [400, 300]
+    }
+  ]
+}
