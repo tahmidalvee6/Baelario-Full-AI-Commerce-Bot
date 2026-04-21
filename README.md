@@ -50,32 +50,6 @@ Agent:    "Got it! 1x Barcelona Away Jersey – XL. Shall I confirm your order?"
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-baelario-ai-commerce-engine/
-│
-├── workflows/                  # n8n workflow JSON files
-│   ├── main-agent.json         # Core AI agent workflow
-│   ├── order-handler.json      # Order processing workflow
-│   ├── payment-detection.json  # Payment confirmation workflow
-│   └── order-tracking.json     # Order status tracking workflow
-│
-├── config/                     # Configuration files
-│   ├── products.json           # Jersey catalog (clubs, kits, sizes)
-│   ├── responses.json          # AI response templates
-│   └── channels.json           # Platform channel configuration
-│
-├── sheets/                     # Google Sheets templates
-│   └── orders-template.json    # Sheets schema for order management
-│
-├── prompts/                    # AI system prompt files
-│   └── agent-prompt.txt        # Master AI agent instructions
-│
-├── .env.example                # Environment variable template
-├── .gitignore
-└── README.md
-```
 
 ---
 
