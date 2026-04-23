@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-**Baelario** is an online sports jersey & kit shopping platform. This repository contains the full n8n workflow engine and configuration files that power Baelario's AI commerce agent.
+**This** is an online sports jersey & kit shopping platform. This repository contains the full n8n workflow engine and configuration files that power Baelario's AI commerce agent.
 
 The agent acts as a smart, conversational sales assistant — it understands natural language, guides customers through product selection (club, jersey type, size), records orders to Google Sheets, detects payments, and provides real-time order tracking — without any human intervention.
 
