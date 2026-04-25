@@ -71,8 +71,7 @@ Agent:    "Got it! 1x Barcelona Away Jersey – XL. Shall I confirm your order?"
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/baelario-ai-commerce-engine.git
-cd baelario-ai-commerce-engine
+
 ```
 
 ### 2. Configure Environment Variables
